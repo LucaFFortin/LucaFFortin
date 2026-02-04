@@ -45,6 +45,4 @@ Actualmente estoy construyendo proyectos para fortalecer mis bases como desarrol
 
 ## 📫 Cómo contactarme
 
-- 💼 LinkedIn: *(agregá acá tu link)*  
-- 📧 Email: *(opcional)*  
-- 💻 GitHub: estás acá 😉
+- 💼 [LinkedIn](https://www.linkedin.com/in/fortin-luca/)  
