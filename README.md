@@ -9,24 +9,32 @@ Actualmente estoy construyendo proyectos para fortalecer mis bases como desarrol
 
 ## 🚀 En qué estoy trabajando actualmente
 
-- 📚 Profundizando en **JavaScript** y **React**
+- 📚 Profundizando en **TypeScript**, **React** y **Nodejs**
 - 🧠 Mejorando mi forma de **analizar problemas**, modelar soluciones y pensar como ingeniero
 - 🛠️ Creando proyectos prácticos (juegos, componentes, lógica de negocio, UI)
-- 📈 Interesado en **análisis funcional**, sistemas y tecnología aplicada a finanzas
+- 📈 Interesado en **análisis funcional** e **Ingenieria de software**
 
 ---
 
 ## 🧰 Tecnologías y herramientas
 
 **Frontend**
-- HTML5  
-- CSS3  
-- JavaScript (ES6+)  
-- React  
+- HTML
+- CSS
+- JavaScript (ES6+)
+- TypeScript
+- React
+- Zustand
+
+**Backend**
+- NodeJS
+- Python
+- Express
 
 **Otros conocimientos**
-- Lógica de programación
-- Modelado de problemas
+- Postman
+- PlayWright
+- StageHand
 - Git & GitHub
 - Buenas prácticas y refactorización
 
